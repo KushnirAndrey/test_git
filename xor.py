@@ -1,5 +1,8 @@
 import math
-
+######### 123 4
+#######
+#####3
+###
 n = int(input())
 s = [int(i) for i in input().split()]
 c = int(input())
